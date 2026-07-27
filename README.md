@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥 Fireflies Clone
+# Fireflies Clone
 
 ### Meeting Notes & Transcription Platform
 
